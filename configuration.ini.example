@@ -1,0 +1,6 @@
+[database]
+host = host.com;
+user = root;
+password = password;
+db = dbname;
+dbprefix = jprefix_;
