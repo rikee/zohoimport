@@ -1,12 +1,12 @@
-To run:
-ruby zohoimport.rb
+<p><strong>To run:</strong><br>
+ruby zohoimport.rb</p>
 
-Include:
-submissions.txt file with each submission ID on its own line
-configuration.ini file with the database information (use production angel or lifelong)
+<p><strong>Include:</strong><br>
+submissions.txt file with each submission ID on its own line<br>
+configuration.ini file with the database information</p>
 
-Dependencies:
-You may need to install some ruby gems for this to run:
-sudo gem install inifile
-sudo gem install mysql2
-sudo gem install httparty
+<p><strong>Dependencies:</strong><br>
+You may need to install some ruby gems for this to run:<br>
+sudo gem install inifile<br>
+sudo gem install mysql2<br>
+sudo gem install httparty</p>
